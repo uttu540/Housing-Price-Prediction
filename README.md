@@ -21,3 +21,5 @@ Postal Code e.g. SW19 8NY
 We have used a supervised machine learning algorithm - linear regression
 
 But before applying the algorithm we did data analysis and feature preprocessing which is present in the jupyter notebook.
+
+Please change the path while importing the dataset.
