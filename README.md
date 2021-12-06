@@ -7,7 +7,7 @@ The dataset which we have used in this model is named: London.csv.
 
 The dataset contain data regarding the house prices in London.
 
-Property Name e.g. Queen ROad
+Property Name e.g. Queen Road
 Price e.g. 735000
 House Type e.g. House
 Area in sq ft e.g. 814
